@@ -1,7 +1,7 @@
 # Attribute-aware Collaborative Learning Network for Radiology Report Generation
 This repository provides code for the paper, Automatic Medical Report Production Based on Collaborative Learning of Medical Image Features and Clinical Symptom Attributes. Please refer to our paper for better understanding the method.
 ## Pipeline
-![image](https://github.com/stellating/MMAA/blob/main/img/fig1.png)
+![image](https://github.com/stellating/MMAA/blob/main/img/fig2.jpg)
 ## Getting started
 ### Environments
 * python 3.5
@@ -49,7 +49,7 @@ __3.Performance__
 **IU X-Ray**  
 BLEU-1 | BLEU-2 | BLEU-3 | BLEU-4 | CIDER | METER | ROUGE | SPICE  
 ---- | ---- | ----| ---- | ---- | ---- | ---- | ----  
-49.99 | 31.81 | 22.60 | 16.96 | 33.77 | 19.96 | 39.21 | 31.16 
+0.500 |0.378 |0.260| 0.185|  0.388| 0.260| 0.392
 
 ### Acknowledge  
 Some of our codes are referring to [cuhksz-nlp/R2Gen](https://github.com/cuhksz-nlp/R2Gen). Thanks for their helpful works.
