@@ -31,7 +31,7 @@ MMAA
 ### Running
 __0.Clone this repo:__  
 ```
-  git clone https://github.com/stellating/MMAA.git
+  git clone https://github.com/stellating/AACL.git
   cd MMAA
 ```
 __1.Train:__  
